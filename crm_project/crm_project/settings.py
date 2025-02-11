@@ -26,6 +26,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = ["crm_project.onrender.com"]
 
+CSRF_TRUSTED_ORIGINS = ["https://crm-django-x29q.onrender.com"]
+
 # Application definition
 
 INSTALLED_APPS = [
