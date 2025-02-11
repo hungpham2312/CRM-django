@@ -1,0 +1,9 @@
+Django>=5.1.6
+djangorestframework
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
+python-decouple
+drf-spectacular
+rest_framework_simplejwt
